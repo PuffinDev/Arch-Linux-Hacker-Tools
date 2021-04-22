@@ -1,0 +1,3 @@
+sudo pacman -S openvpn --noconfirm
+sudo pacman -S tor --noconfirm
+sudo pacman -S macchanger --noconfirm

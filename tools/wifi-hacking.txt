@@ -1,0 +1,3 @@
+sudo pacman -S aircrack-ng --noconfirm
+sudo pacman -S airplay-ng --noconfirm
+sudo pacman -S bettercap --noconfirm

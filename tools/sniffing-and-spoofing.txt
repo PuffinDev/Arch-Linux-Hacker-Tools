@@ -1,0 +1,2 @@
+sudo pacman -S bettercap --noconfirm
+yay -S burpsuite --noconfirm

@@ -1,0 +1,2 @@
+sudo pacman -S nmap --noconfirm
+yay -S zenmap --noconfirm
